@@ -2,7 +2,7 @@
 Http 서버 구현, MVC 프레임워크 구현, JDBC Template 구현
 
 ## 미션 목록
-- 코드로 구현하며 추상화된 동작방식을 이해
+- 코드로 구현하며 추상화 된 동작방식을 이해
 - [http 서버](https://github.com/knae11/woowalevel4/tree/http)
     - http 요청을 읽고 해석하여 적절한 응답을 반환하는 기능 구현
     - [reflection을 사용하여 GetMapping annotation 만들기](https://nauni.tistory.com/293)
