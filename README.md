@@ -11,7 +11,7 @@ Http 서버 구현, MVC 프레임워크 구현, JDBC Template 구현
 - [mvc 프레임워크](https://github.com/knae11/woowalevel4/tree/mvc)
     -  기존 ManualController로 되어있는 내용을 AnnotationController로 변환하는 작업 
     -  Java Reflection
-    -  Spring Web MVC DispatcherServlet
+    -  [Spring Web MVC DispatcherServlet](https://nauni.tistory.com/300)
 - [jdcb](https://github.com/knae11/woowalevel4/tree/jdbc)
     - 기본 DAO에서 find, insert 구현이 된 코드를 리팩토링하며 추가 기능 구현
     - 익명 클래스, 함수형 인터페이스, 람다
