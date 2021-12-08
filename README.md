@@ -4,6 +4,7 @@ Http 서버 구현, MVC 프레임워크 구현, JDBC Template 구현
 ## 미션 목록
 - 코드로 구현하며 추상화 된 동작방식을 이해
 - [리팩터링](https://github.com/knae11/woowalevel4/tree/refactoring)
+    - [4단계 미션 PR](https://github.com/woowacourse/jwp-refactoring/pull/180)
     - 기존 레거시 코드의 도메인을 파악하고 리팩터링을 위한 테스트 코드를 작성
     - JdbcTemplate, Dao, Domain으로 이루어진 코드를 JPA, DTO를 사용하여 리팩터링
     - 패키지간, 클래스간 단방향 의존관계 설정
